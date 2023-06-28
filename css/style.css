@@ -104,10 +104,10 @@ header {
 }
 
 .main-section {
-  /* border: 1px solid red; */
   flex-grow: 1;
   display: flex;
   justify-content: center;
+  padding-top: 2.5rem;
 }
 
 .search-area {
